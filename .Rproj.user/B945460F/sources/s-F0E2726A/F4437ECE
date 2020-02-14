@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581676442107.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4243650904",
+    "id" : "F4437ECE",
+    "lastKnownWriteTime" : 1581676629,
+    "last_content_update" : 1581676629761,
+    "path" : "~/Documents/code/DataScience/R/BelkinElagoMLModels/belkinelagomodels.r",
+    "project_path" : "belkinelagomodels.r",
+    "properties" : {
+        "cursorPosition" : "81,62",
+        "scrollLine" : "59",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
